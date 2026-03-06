@@ -1,7 +1,21 @@
+/**
+ * Descripción de clase: Esta clase principal de los animales,
+ * Sirve como medio para coordinar los animales con características, usando la jerarquía.
+ * @author Laura Paredes Alcaraz
+ * @version 1.1
+ */
+
+
 package es.cifpcarlosiii.ed1damdist.tarea4;
 
 public class Principal {
 
+    /**
+     * Método de inicio que ejecuta el programa.
+     * Crea instancias de {@link Perro} y {@link Gato}, asignándoles nombres
+     * específicos a través de sus constructores, y demuestra el uso de métodos heredados y sobreescritos.
+     *  @param args Argumentos de la línea de comandos.
+     */
     public static void main(String[] args) {
 
 /*
